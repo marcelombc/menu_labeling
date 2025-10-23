@@ -1,0 +1,15 @@
+{
+  "Restaurants": {
+    "chez_smith": "https://chez-smith.ch/de/",
+    "La_Catedral": "https://www.lacatedral.ch/menu",
+    "lulu": "https://www.lulu-zh.ch/de/",
+    "Hermanseck": "https://www.hermanseck.ch/",
+    "Grotto Reale": "https://grottoreale.ch/",
+    "Miki": "http://miki.ch/",
+    "China Restaurant 99": "http://chinarestaurant-99.ch/",
+    "Lee House": "https://www.leehouse.ch/menu.html",
+    "Gamper_Restaurant": "http://gamper-restaurant.ch/",
+    "Neue_Taverne": "https://neuetaverne.ch/",
+    "Wirtschaft_im_Franz": "http://www.wirtschaftimfranz.ch/"
+  }
+}
